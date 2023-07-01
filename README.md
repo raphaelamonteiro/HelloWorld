@@ -1,2 +1,2 @@
-# HelloWorld
-Primeiro projeto com o Git(teste)
+# Hello World!
+Esse é o meu primeiro projeto com o Git, apenas um teste :)
